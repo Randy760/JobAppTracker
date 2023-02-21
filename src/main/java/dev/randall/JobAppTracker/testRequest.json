@@ -1,0 +1,8 @@
+{
+  "companyName" : "testName",
+  "posNumber" : "testNum",
+  "position" : "Engineer",
+  "hasLogin" : "true",
+  "username" : "testUsername",
+  "password" : "testPassword"
+}
