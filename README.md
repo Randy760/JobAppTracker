@@ -1,2 +1,2 @@
 # JobAppTracker
-This is the backend for the Job Application Tracker.
+This is a simple backend for the Job Application Tracker.
